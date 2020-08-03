@@ -1,5 +1,5 @@
-# Statistical Thermodynamics and Transport Phenomena
+# Parte computacional de técnicas de caracterización de materiales y biointerfases
 
-Here you will find useful jupyter notebooks on this subject.
+Aquí encontrarás material para esta asignatura.
 
-Choose your favorite user interface:
+Escoge tu interfaz favorita
