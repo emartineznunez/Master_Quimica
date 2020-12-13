@@ -1,2 +1,5 @@
 jupyter nbextension enable --py widgetsnbextension
+
+chmod +x .local/bin/mopac
+
 ##jupyter labextension install @jupyter-widgets/jupyterlab-manager
