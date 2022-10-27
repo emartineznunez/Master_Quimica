@@ -2,4 +2,4 @@ numpy
 matplotlib
 ase
 nglview
-ipywidgets
+ipywidgets>=7.6.0,<8
