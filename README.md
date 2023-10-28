@@ -6,8 +6,10 @@ Para los cálculos con MOPAC:
 
 2) En .profile está definido $LD_LIBRARY_PATH
 
-Lanza el binder para ejecutar los notebooks:
+Los notebooks se pueden desplegar en binder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/emartineznunez/Master_Quimica/master)
+
+O en Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/Master_Quimica/blob/master/Google_colab/google_colab.ipynb)
