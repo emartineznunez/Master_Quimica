@@ -10,4 +10,4 @@ Lanza el binder para ejecutar los notebooks:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/emartineznunez/Master_Quimica/master)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/Master_Quimica/blob/master/Google_colab)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/Master_Quimica/blob/master/Google_colab/google_colab.ipynb)
