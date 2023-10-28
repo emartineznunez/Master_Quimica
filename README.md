@@ -9,3 +9,5 @@ Para los cálculos con MOPAC:
 Lanza el binder para ejecutar los notebooks:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/emartineznunez/Master_Quimica/master)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
