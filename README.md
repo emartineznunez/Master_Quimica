@@ -16,3 +16,4 @@ O en Google Colab:
 
 Link de acceso al servidor web para cálculos automatizados de prueba: https://rxnkin.usc.es/amk/ 
 
+https://emartineznunez.github.io/Master_Quimica/network_NH2Level2.html
