@@ -23,7 +23,7 @@ author: Emilio Martinez-Nunez
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "index"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
