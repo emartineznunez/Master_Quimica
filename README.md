@@ -6,6 +6,6 @@ Los notebooks se pueden desplegar en Google Colab:
 
 ## Material adicional
 
-Prueba el ejemplo del ácido fórmico en Google Colab: 
+Prueba el ejemplo de las red de reacción del ácido fórmico: 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/AutoMeKin/blob/main/notebooks/AutoMeKin.ipynb)
 
