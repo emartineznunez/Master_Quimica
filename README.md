@@ -7,5 +7,5 @@ Los notebooks se pueden desplegar en Google Colab:
 ## Material adicional
 
 Prueba el ejemplo del ácido fórmico en Google Colab: 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/AutoMeKin/blob/master/AutoMeKin.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/AutoMeKin/blob/main/AutoMeKin.ipynb)
 
