@@ -6,6 +6,6 @@ Los notebooks se pueden desplegar en Google Colab:
 
 ## Material adicional
 
-Prueba el ejemplo de la red de reacción del ácido fórmico: 
+En el siguiente Notebook se muestra el funcionamiento de un programa automético de descubrimiento de reacciones químicas. Concretamente el ejemplo que se muestra se refiere al sistema CH_2O_2
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/AutoMeKin/blob/main/notebooks/AutoMeKin.ipynb)
 
